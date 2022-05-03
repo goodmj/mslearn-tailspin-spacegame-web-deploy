@@ -1,6 +1,7 @@
 trigger:
 - '*'
 
+# matthew yaml test comment for making sure git checkin won't cause extra deployments
 variables:
   buildConfiguration: 'Release'
   releaseBranchName: 'release'
